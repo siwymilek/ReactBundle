@@ -36,7 +36,6 @@
             "@default-scripts"
         ]
     },
-    "minimum-stability": "dev",
     "repositories": [
         {
             "type": "vcs",
